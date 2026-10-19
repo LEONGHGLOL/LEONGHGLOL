@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MONYtry
+# 👋 Hi, I'm LeNaru
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -13,29 +13,25 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a developer who enjoys building practical applications and exploring how software interacts with the real world.
+I'm a new and young web developer
 
 My main interests are:
 
-🐍 **Python Development**  
-🌐 **Networking & Communication Systems**  
-🏠 **Smart Home / IoT Projects**  
-🔐 **Cybersecurity & Secure Programming**  
-⚙️ **Automation & Tools**
+💻 **Web development**  
+🌐 **Websites**  
+🎨 **css desing**  
+⚙️ **mini games with javascript**
 
 I enjoy learning by creating projects that solve real problems.
 
 ---
 
-# 🛠️ Technologies & Skills
+# ⏻ Technologies & Skills
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/Java-Development-red?style=flat-square&logo=java)
-![C#](https://img.shields.io/badge/C%23-purple?style=flat-square&logo=csharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-Web-orange?style=flat-square&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-303030?style=flat-square&logo=javascript&logoColor=yellow)
 ![CSS](https://img.shields.io/badge/CSS-303030?style=flat-square&logo=css&logoColor=orange)
@@ -44,9 +40,6 @@ I enjoy learning by creating projects that solve real problems.
 ### Areas
 
 - 🌐 Network Programming
-- 🔌 API Integration
-- 🏠 IoT Development
-- 🔒 Security Concepts
 - 🖥️ Application Development
 - 🛠️ Automation
 
@@ -54,9 +47,7 @@ I enjoy learning by creating projects that solve real problems.
 
 # 📚 Currently Learning
 
-🚀 Advanced Python  
-🏗️ Software Architecture  
-🔐 Cybersecurity  
+♨️ java  
 🌐 Advanced Networking  
 ⚙️ Automation Systems  
 
@@ -64,8 +55,8 @@ I enjoy learning by creating projects that solve real problems.
 
 # 📈 Goals
 
-My goal is to continuously improve as a developer by creating useful software, learning modern technologies, and building projects that combine programming with real-world applications.
-**Discord:** `anonym3753`
+My goal is to be better as <a href="https://github.com/monytry">
+**Discord:** `lenarutry`
 
 
 ---
