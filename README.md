@@ -1,14 +1,7 @@
 # 👋 Hi, I'm LeNaru
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Networking-TCP%2FSockets-00A67E?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cybersecurity-Learning-E67E22?style=for-the-badge">
-  <img src="https://img.shields.io/badge/IoT-Smart%20Home-8E44AD?style=for-the-badge">
-</p>
-
-<p align="center">
-  <b>Developer focused on Python, Networking, Automation & Smart Home technologies.</b>
+  <b>Developer that creates websitets</b>
 </p>
 
 ---
@@ -55,11 +48,14 @@ I enjoy learning by creating projects that solve real problems.
 
 # 📈 Goals
 
-My goal is to be better as <a href="https://github.com/monytry">
-**Discord:** `lenarutry`
+My goal is to be better as <a href="https://github.com/MONYtry">MONY_try</a>
 
 
 ---
+
+# ⚙️Discord
+
+ **lenarutry**
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
